@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+transformers
+faiss-cpu
+langchain-community
+openai
+speechrecognition
+gtts
+numpy

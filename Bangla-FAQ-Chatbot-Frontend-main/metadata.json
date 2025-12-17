@@ -1,0 +1,7 @@
+{
+  "name": "Bangla FAQ Chatbot",
+  "description": "A voice-enabled AI assistant for answering Bangla questions regarding education, health, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
