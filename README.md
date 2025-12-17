@@ -1,4 +1,4 @@
-# 🇧🇩 Bangla FAQ Chatbot
+# Bangla FAQ Chatbot
 
 A **production-ready AI-powered Bangla FAQ Chatbot** designed to answer user questions accurately using **Retrieval-Augmented Generation (RAG)**. This project combines **FastAPI**, **vector search**, and **LLM-based reasoning** to deliver reliable responses from Bangla documents.
 
